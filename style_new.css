@@ -1,0 +1,151 @@
+.container{
+    background: rgb(238, 26, 97)!important;
+    min-height: 450px!important;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+}
+.container img{
+    width:350px;
+    height:auto;
+}
+
+.box i{
+    font-size: 20px;
+    margin-top: 60px;
+    padding: 20px;
+}
+.menu-item{
+    margin-top: 50px;
+    width:173px;
+    margin-bottom: 0px;
+}
+.menu-item i{
+    font-size: 30px;
+}
+.menu-item:hover {
+    cursor: pointer;
+}
+.menu-item .n1{
+    margin-top:50px;
+    background-color:rgb(10, 128, 128);
+    height:auto;
+}
+.menu-item .n1:hover{
+    background-color:rgb(10, 163, 163) ;
+}
+.menu-item .n2{
+    margin-top:50px;
+    background-color:rgb(255, 196, 0);
+    height:auto;
+}
+.menu-item .n2:hover{
+    background-color: rgb(252, 210, 73);
+}
+.menu-item .n3{
+    margin-top:50px;
+    background-color:purple;
+    height:auto;
+}
+.menu-item .n3:hover{
+    background-color:rgb(170, 14, 170) ;
+}
+.menu-item .n4{
+    margin-top:50px;
+    background-color:rgb(34, 241, 34);
+    height:auto;
+}
+.menu-item .n4:hover{
+    background-color: rgb(93, 252, 93);
+}
+#education .container{
+    background:rgb(10, 128, 128)!important ;
+    min-height: 900px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#education .ca .card{
+    width:900px;
+    margin-top:30px;
+    background-color: white!important;
+    margin-top: 30px;
+    margin-left:110px;
+}
+#education .ca1 .card{
+    width:400px;
+    margin-top:30px;
+    background-color: white!important;
+    margin-top: 30px;
+    margin-left:130px;
+    margin-right: 90px;
+}
+#education .card{
+    width:400px;
+    background-color: white!important;
+    margin-top: 40px;
+    margin-bottom:40px;
+}
+#education .card p{
+    background-color:rgb(10, 128, 128)!important ;
+    color:white;
+    border-radius: 10px;
+    
+}
+
+#skills .container{
+    background:rgb(255, 196, 0)!important ;
+    min-height: 800px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#skills .body{
+    padding-bottom: 70px;
+}
+#achieve .container{
+    background:purple!important ;
+    min-height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#achieve .image{
+    margin-left: 150px;
+    padding-bottom: 100px;
+}
+#achieve .image img{
+    width: 400px;
+    height: 300px;
+}
+#profile .container{
+    background:rgb(34, 241, 34)!important ;
+    min-height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#profile form{
+    padding-bottom: 70px;
+}
+#profile .control{
+
+    margin-left:180px;
+    width: 800px;
+}
+label{
+    width:200px;
+    margin-right:50px!important;
+}
+.form-control{
+    display: inline!important;
+    width : 60% !important;
+    margin-bottom: 20px!important;
+}
+
+
+.c{
+    background: rgba(238, 26, 97, 0.863)!important;
+    min-height: 140px!important;
+    background-size: cover!important;
+    background-repeat: no-repeat!important;
+}
+.c button:hover{
+    background-color: white!important;
+    color:rgb(238, 26, 97)!important ;
+}
